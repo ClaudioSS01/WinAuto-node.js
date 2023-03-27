@@ -1,5 +1,5 @@
 # WinAutomation-node.js
-WinAuto node.js
+WinAutomation node.js
 This is a JavaScript code that defines a set of functions to simulate keyboard inputs using the Windows Script Host. Each function executes a command in the terminal that creates a temporary Visual Basic script that sends the desired key combination to the active window using the SendKeys method. After sending the key combination, the temporary script is deleted.
 
 # Here is a brief description of each function:
