@@ -8,20 +8,21 @@ This is a JavaScript code that defines a set of functions to simulate keyboard i
 <li>cmd: receives a string representing a command to execute in the terminal, and sends its output to the console.
 </li><br><li>setaParaCima: simulates the up arrow key.
 </li><br><li>setaParaBaixo: simulates the down arrow key.
-setaParaDireita: simulates the right arrow key.
-setaParaEsquerda: simulates the left arrow key.
-pressione: simulates a single key press, receives a string representing the key to press. If the key is "enter", it simulates an Enter key press.
-pressioneControl: simulates a key press with the Control key held down, receives a string representing the key to press.
-pressioneAlt: simulates a key press with the Alt key held down, receives a string representing the key to press.
-pressioneAltShift: simulates a key press with the Alt and Shift keys held down, receives a string representing the key to press.
-pressioneControlShift: simulates a key press with the Control and Shift keys held down, receives a string representing the key to press.
-pressioneControlAlt: simulates a key press with the Control and Alt keys held down, receives a string representing the key to press.
-pressioneWindowsR: simulates the Windows+R key combination to open the "Run" dialog box.
-pressioneWindowsD: simulates the Windows+D key combination to show the desktop.
-tab: simulates a Tab key press.
-del: simulates a Delete key press.
-delete_: simulates a Delete key press.
-enter: simulates an Enter key press.
-espaco: simulates a space key press.
-printscript: simulates the Print Screen key press.
-f1 to f12: simulate the corresponding function key press.
+</li><br><li>setaParaDireita: simulates the right arrow key.
+</li><br><li>setaParaEsquerda: simulates the left arrow key.
+</li><br><li>pressione: simulates a single key press, receives a string representing the key to press. If the key is "enter", it simulates an Enter key press.
+</li><br><li>pressioneControl: simulates a key press with the Control key held down, receives a string representing the key to press.
+</li><br><li>pressioneAlt: simulates a key press with the Alt key held down, receives a string representing the key to press.
+</li><br><li>pressioneAltShift: simulates a key press with the Alt and Shift keys held down, receives a string representing the key to press.
+</li><br><li>pressioneControlShift: simulates a key press with the Control and Shift keys held down, receives a string representing the key to press.
+</li><br><li>pressioneControlAlt: simulates a key press with the Control and Alt keys held down, receives a string representing the key to press.
+</li><br><li>pressioneWindowsR: simulates the Windows+R key combination to open the "Run" dialog box.
+</li><br><li>pressioneWindowsD: simulates the Windows+D key combination to show the desktop.
+</li><br><li>tab: simulates a Tab key press.
+</li><br><li>del: simulates a Delete key press.
+</li><br><li>delete_: simulates a Delete key press.
+</li><br><li>enter: simulates an Enter key press.
+</li><br><li>espaco: simulates a space key press.
+</li><br><li>printscript: simulates the Print Screen key press.
+</li><br><li>f1 to f12: simulate the corresponding function key press.
+</li></ul>
