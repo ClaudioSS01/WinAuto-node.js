@@ -5,7 +5,7 @@ This is a JavaScript code that defines a set of functions to simulate keyboard i
 # Here is a brief description of each function:
 
 <ul>
-<li>cmd: receives a string representing a command to execute in the terminal, and sends its output to the console.
+<li><b>cmd:</b> receives a string representing a command to execute in the terminal, and sends its output to the console.
 </li><br><li>setaParaCima: simulates the up arrow key.
 </li><br><li>setaParaBaixo: simulates the down arrow key.
 </li><br><li>setaParaDireita: simulates the right arrow key.
