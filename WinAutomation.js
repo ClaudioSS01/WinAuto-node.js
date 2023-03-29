@@ -77,13 +77,13 @@ function pressioneControlAlt(tecla) {
 
 function pressioneWindowsR(tecla) {
 
-  let comando = `echo explorer.exe Shell:::{2559a1f3-21d7-11d4-bdaf-00c04f60b9f0}`
+  let comando = `start Shell:::{2559a1f3-21d7-11d4-bdaf-00c04f60b9f0}`
   cmd(comando)
 }
 
 function pressioneWindowsD(tecla) {
 
-  let comando = `echo explorer.exe shell:::{3080F90D-D7AD-11D9-BD98-0000947B0257}`
+  let comando = `start shell:::{3080F90D-D7AD-11D9-BD98-0000947B0257}`
   cmd(comando)
 }
 
